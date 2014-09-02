@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AFD8392A-18C3-4664-BA7F-7C843B004B8B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ofApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C88A2B4A-4559-4B1E-BCB9-EA263A17D80F</key>
+		<string>https://github.com/muroicci/ofx_facetracking_test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ofApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C88A2B4A-4559-4B1E-BCB9-EA263A17D80F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/muroicci/ofx_facetracking_test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C88A2B4A-4559-4B1E-BCB9-EA263A17D80F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C88A2B4A-4559-4B1E-BCB9-EA263A17D80F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofx_facetracking_test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
